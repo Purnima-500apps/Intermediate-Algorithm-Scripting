@@ -1,0 +1,22 @@
+
+.bg-container{
+    background-color: rgb(153, 225, 238);
+    text-align: center;
+    height: 50vh;
+}
+button{
+    width: 120px;
+    height: 30px;
+    background-color: azure;
+    border-radius: 5px;
+    border-style: none;
+    font-size: 15px;
+
+
+}
+.output{
+    background-color: rgb(227, 166, 233);
+    margin: 15px;
+    font-size: 20px;
+}
+
