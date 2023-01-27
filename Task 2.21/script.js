@@ -16,5 +16,5 @@ function orbitalPeriod(arr) {
 const result = (orbitalPeriod([{name : "sputnik", avgAlt : 35873.5553}]));
 
 function getOutput() {
-  document.getElementById("output").textContent = result;
+  document.getElementById("output").textContent = JSON.stringify(result);
 }

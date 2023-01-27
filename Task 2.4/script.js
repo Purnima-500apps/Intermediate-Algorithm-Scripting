@@ -20,5 +20,5 @@ function whatIsInAName(collection, source) {
 let result = (whatIsInAName([{ first: "Romeo", last: "Montague" }, { first: "Mercutio", last: null }, { first: "Tybalt", last: "Capulet" }], { last: "Capulet" }));
 
 function getOutput() {
-  document.getElementById("output").textContent = result;
+  document.getElementById("output").textContent = JSON.stringify(result);
 }

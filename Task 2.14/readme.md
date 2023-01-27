@@ -6,4 +6,4 @@ The range will be an array of two numbers that will not necessarily be in numeri
 
 For example, if given 1 and 3, find the smallest common multiple of both 1 and 3 that is also evenly divisible by all numbers between 1 and 3. The answer here would be 6.
 
-url: https://drive.500apps.com/5e2f611e
+url: https://drive.500apps.com/a964644c
