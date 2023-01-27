@@ -1,20 +1,11 @@
-Map the Debris
+Sorted Union
 
-According to Kepler's Third Law, the orbital period  T  of two point masses orbiting each other in a circular or elliptic orbit is:
+Write a function that takes two or more arrays and returns a new array of unique values in the order of the original provided arrays.
 
-T=2πa3μ−−−√
- 
-a  is the orbit's semi-major axis
-μ=GM  is the standard gravitational parameter
-G  is the gravitational constant,
-M  is the mass of the more massive body.
-Return a new array that transforms the elements' average altitude into their orbital periods (in seconds).
+In other words, all values present from all arrays should be included in their original order, but with no duplicates in the final array.
 
-The array will contain objects in the format {name: 'name', avgAlt: avgAlt}.
+The unique numbers should be sorted by their original order, but the final array should not be sorted in numerical order.
 
-The values should be rounded to the nearest whole number. The body being orbited is Earth.
+Check the assertion tests for examples.
 
-The radius of the earth is 6367.4447 kilometers, and the GM value of earth is 398600.4418 km3s-2.
-
-
-url: 
+url: https://drive.500apps.com/ac78da8c
